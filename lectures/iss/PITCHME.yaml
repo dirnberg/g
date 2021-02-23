@@ -1,0 +1,89 @@
+#
+# The Template Settings
+#
+# The default settings below are optimized for this template.
+# Override settings with your own custom values as needed.
+#
+# For further details, see https://gitpitch.com/docs/settings.
+#
+
+published : true
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : template
+
+#theme-background : [ "white" ]
+#theme-headline   : [ "Raleway", "black", "none" ]
+#theme-byline     : [ "Raleway", "black", "none" ]
+#theme-text       : [ "Ubuntu", "black", "none" ]
+#theme-links      : [ "#E27924", "black" ]
+#theme-code       : [ "Fira Code" ]
+#theme-controls   : [ "black" ]
+#theme-margins    : [ "0", "15px" ]
+
+#highlight        : ir-black
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override : assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+logo : assets/img/fh.png
+logo-position : top-left
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "Industrial Security for Safety"
+
+#
+# Highlight (Code) Setting
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
+highlight : atom-one-dark
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Transition Setting
+# This template uses GitPitch Snap-Layouts extensively. For this
+# reason THIS VALUE SHOULD NOT BE MODIFIED. See:
+# https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
+#
+transition : none
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "Industrial Security for Safety"
+#description : "High-utility markdown slide templates for GitPitch presentation authors."
+#thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
+
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme            : template
+theme-background : [ "#EEEEEE" ]
+theme-headline   : [ "Raleway", "#1C1C1C", "none", "#1C1C1C", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#272626", "none", "#333", "100", "110", "15" ]
+theme-text       : [ "Ubuntu", "#272626", "none", "#333", "100", "100", "15" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+highlight        : atom-one-dark
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+logo             : assets/img/fh.png
+logo-position    : top-left
+layout           : center
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END

@@ -1,0 +1,25 @@
+gitpitch : 3.0
+published : true
+
+#theme-override : assets/css/PITCHME.css
+
+footnote : "Ready for Security Level 1 - Herausforderung Industrial IoT"
+lang : "de"
+transition : none
+title : "Ready for Security Level 1 - Herausforderung Industrial IoT"
+
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme            : template
+#theme-background : [ "#FFFFFF" ]
+theme-headline   : [ "OpenSans", "#D03732", "none", "#FFFFFF", "80", "100", "15" ]
+theme-byline     : [ "OpenSans", "#000000", "none", "#272626", "80", "100", "15" ]
+theme-text       : [ "OpenSans", "#000000", "none", "#1C1C1C", "100", "100", "15" ]
+theme-links      : [ "#D03732","#D03732"]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+highlight        : atom-one-dark
+theme-controls   : [ "#C0C0C0" ]
+#theme-margins    : [ "0", "15px" ]
+logo             : assets/img/csa.png
+logo-position    : top-right
+layout           : left
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END

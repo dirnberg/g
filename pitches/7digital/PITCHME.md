@@ -7,7 +7,7 @@
 ---?image=assets/img/cam.png   
 @title[CAM]
 @snap[south-east span-100]
-@box[bg-yellow text-blue rounded demo-box-pad]((1) Computer Added Manufacturing)
+@box[bg-yellow text-blue rounded demo-box-pad]((1) Computer Aided Manufacturing)
 @snapend
 
 @snap[north-east span-50]

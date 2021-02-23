@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1569 813" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10;">
+    <rect x="0" y="0" width="1569" height="813" style="fill:none;"/>
+    <g transform="matrix(1,0,0,-1,803,616)">
+        <path d="M30,210C108,210 148,347 227,347L450,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,413)">
+        <path d="M450,144C474,144 486,210 510,210L604,210" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,688)">
+        <path d="M30,282C108,282 148,347 227,347L332,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,587)">
+        <path d="M332,246C356,246 368,282 392,282L478,282" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,623)">
+        <path d="M332,282L519,282" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,659)">
+        <path d="M332,318C356,318 368,282 392,282L731,282" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,778)">
+        <path d="M30,372C108,372 148,347 227,347L303,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,785)">
+        <path d="M303,354C327,354 339,372 363,372L453,372" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,821)">
+        <path d="M303,390C327,390 339,372 363,372L501,372" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,868)">
+        <path d="M30,462C108,462 148,347 227,347L326,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,947)">
+        <path d="M326,426C350,426 362,462 386,462L493,462" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,983)">
+        <path d="M326,462L466,462" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1019)">
+        <path d="M326,498C350,498 362,462 386,462L495,462" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,994)">
+        <path d="M30,588C108,588 148,347 227,347L331,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1181)">
+        <path d="M331,534C355,534 367,588 391,588L444,588" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1217)">
+        <path d="M331,570C355,570 367,588 391,588L445,588" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1253)">
+        <path d="M331,606C355,606 367,588 391,588L495,588" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1289)">
+        <path d="M331,642C355,642 367,588 391,588L459,588" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1053)">
+        <path d="M30,647C-49,647 -89,347 -167,347L-262,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1281)">
+        <path d="M-262,575C-286,575 -298,647 -322,647L-387,647" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1317)">
+        <path d="M-262,611C-286,611 -298,647 -322,647L-383,647" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1353)">
+        <path d="M-262,647L-322,647L-372,647" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1389)">
+        <path d="M-262,683C-286,683 -298,647 -322,647L-437,647" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1425)">
+        <path d="M-437,683L-497,683L-747,683" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:4px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1425)">
+        <path d="M-262,719C-286,719 -298,647 -322,647L-399,647" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,837)">
+        <path d="M30,431C-49,431 -89,347 -167,347L-337,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,831)">
+        <path d="M-337,341C-361,341 -373,431 -397,431L-601,431" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,723)">
+        <path d="M-601,323C-625,323 -637,341 -661,341L-732,341" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:4px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,759)">
+        <path d="M-601,359C-625,359 -637,341 -661,341L-769,341" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:4px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,885)">
+        <path d="M-337,395C-361,395 -373,431 -397,431L-538,431" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,921)">
+        <path d="M-337,431L-397,431L-517,431" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,957)">
+        <path d="M-337,467C-361,467 -373,431 -397,431L-475,431" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,993)">
+        <path d="M-337,503C-361,503 -373,431 -397,431L-447,431" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,1029)">
+        <path d="M-337,539C-361,539 -373,431 -397,431L-474,431" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,657)">
+        <path d="M30,251C-49,251 -89,347 -167,347L-318,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,525)">
+        <path d="M-318,215C-342,215 -354,251 -378,251L-583,251" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,561)">
+        <path d="M-318,251L-378,251L-541,251" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,597)">
+        <path d="M-318,287C-342,287 -354,251 -378,251L-545,251" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,532)">
+        <path d="M30,126C-49,126 -89,347 -167,347L-268,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,258)">
+        <path d="M-268,73C-292,73 -304,126 -328,126L-455,126" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,294)">
+        <path d="M-268,109C-292,109 -304,126 -328,126L-445,126" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,328)">
+        <path d="M-268,143C-292,143 -304,126 -328,126L-562,126" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,364)">
+        <path d="M-268,179C-292,179 -304,126 -328,126L-416,126" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,425)">
+        <path d="M30,19C-49,19 -89,347 -167,347L-348,347" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,79)">
+        <path d="M-348,1C-372,1 -384,19 -408,19L-652,19" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,-1,803,115)">
+        <path d="M-348,37C-372,37 -384,19 -408,19L-543,19" style="fill:none;fill-rule:nonzero;stroke:rgb(192,192,192);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-0.9798)">
+        <path d="M970.001,406.99L970.001,434.99C970.001,440.513 965.524,444.99 960.001,444.99L706.001,444.99C700.478,444.99 696.001,440.513 696.001,434.99L696.001,378.99C696.001,373.467 700.478,368.99 706.001,368.99L960.001,368.99C965.524,368.99 970.001,373.467 970.001,378.99L970.001,406.99Z" style="fill:rgb(255,252,121);fill-rule:nonzero;stroke:rgb(255,252,121);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:4;"/>
+    </g>
+    <g>
+        <text x="721.311px" y="401.01px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(22,67,85);">Secure Communication</text>
+        <text x="715.174px" y="425.01px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(22,67,85);">T</text>
+        <text x="726.298px" y="425.01px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(22,67,85);">ransport Layer Security</text>
+    </g>
+    <text x="1319px" y="197.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">TLS 1.2+</text>
+    <text x="1036px" y="335.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">hilft gegen</text>
+    <g>
+        <text x="1201px" y="299.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">abhören</text>
+        <text x="1201px" y="335.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">manipulieren</text>
+        <text x="1201px" y="371.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">von Daten in unsicheren Netzwerken</text>
+    </g>
+    <text x="1036px" y="425.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">schützt</text>
+    <g>
+        <text x="1172px" y="407.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">Integrität</text>
+        <text x="1172px" y="443.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">V</text>
+        <text x="1184.25px" y="443.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">ertraulichkeit</text>
+    </g>
+    <g>
+        <text x="1036px" y="515.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">V</text>
+        <text x="1048.25px" y="515.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">erfahren</text>
+    </g>
+    <g>
+        <text x="1195px" y="479.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Encryption</text>
+        <text x="1195px" y="515.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Hashes</text>
+        <text x="1195px" y="551.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Signaturen</text>
+    </g>
+    <text x="1036px" y="641.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">Standards</text>
+    <g>
+        <text x="1200px" y="587.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">AES</text>
+        <text x="1200px" y="623.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">RSA</text>
+        <text x="1200px" y="659.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">OpenPGP</text>
+        <text x="1200px" y="695.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">W</text>
+        <text x="1218.88px" y="695.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">P</text>
+        <text x="1230.74px" y="695.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">A2</text>
+    </g>
+    <text x="547.001px" y="700.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">unsecure</text>
+    <g>
+        <text x="422.001px" y="628.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">HTTP</text>
+        <text x="426.001px" y="664.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">telnet</text>
+        <text x="437.001px" y="700.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">FTP</text>
+        <text x="372.001px" y="736.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">snmp v1/v2</text>
+    </g>
+    <text x="62.001px" y="736.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">security is not my problem!</text>
+    <text x="410.001px" y="772.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">smb v1</text>
+    <text x="472.001px" y="484.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">secure verwendet</text>
+    <text x="208.001px" y="394.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">VPN bei Fernwartung</text>
+    <g>
+        <text x="77.001px" y="376.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">I</text>
+        <text x="82.557px" y="376.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">P</text>
+        <text x="100.75px" y="376.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Sec</text>
+        <text x="40.001px" y="412.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Open VPN</text>
+    </g>
+    <g>
+        <text x="271.001px" y="448.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">OPC U</text>
+        <text x="334.342px" y="448.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">A</text>
+        <text x="352.143px" y="448.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">/ TLS</text>
+        <text x="292.001px" y="484.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">SFTP/FTPS</text>
+        <text x="334.001px" y="520.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">HTTPS</text>
+        <text x="362.001px" y="556.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">ssh</text>
+        <text x="335.001px" y="592.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">smb v3</text>
+    </g>
+    <text x="491.001px" y="304.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Schwachstellen</text>
+    <g>
+        <text x="226.001px" y="268.01px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(52,72,83);">Schlüsselaustausch</text>
+        <text x="268.001px" y="304.01px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(52,72,83);">weak Zertiﬁkate</text>
+        <text x="264.001px" y="340.01px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(52,72,83);">Zertiﬁkatsablauf</text>
+    </g>
+    <text x="541.001px" y="179.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Aufwände</text>
+    <g>
+        <text x="354.001px" y="126.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Performance</text>
+        <text x="364.001px" y="162.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(52,72,83);">Komplexität</text>
+        <text x="247.001px" y="197.01px" style="font-family:'Georgia', serif;font-size:20px;">Public-key infrastructure</text>
+        <text x="393.001px" y="232.01px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:20px;fill:rgb(67,91,102);">Legacy?</text>
+    </g>
+    <text x="461.001px" y="72.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">Ersatzmaßnahmen</text>
+    <g>
+        <text x="157.001px" y="54.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">sichere Gateways/Proxies</text>
+        <text x="266.415px" y="90.01px" style="font-family:'Helvetica';font-size:20px;fill:rgb(67,90,102);">Secure Island</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1031,112.01)">
+        <g>
+            <use xlink:href="#_Image1" x="0" y="0" width="221px" height="148px"/>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="221px" height="148px" xlink:href="data:image/png;base64,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"/>
+    </defs>
+</svg>

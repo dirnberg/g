@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 645 266" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.01441,0,0,1,-51.735,-57)">
+        <clipPath id="_clip1">
+            <rect x="51" y="57" width="700" height="266" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1,0,0,1,0,-468)">
+                <rect x="50" y="524" width="245" height="15"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-468)">
+                <clipPath id="_clip2">
+                    <rect x="51" y="525" width="700" height="266" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <rect x="294" y="524" width="2" height="15" style="fill:rgb(255,255,0);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-468)">
+                <clipPath id="_clip3">
+                    <rect x="51" y="525" width="700" height="266" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip3)">
+                    <rect x="295" y="524" width="218" height="15" style="fill:rgb(0,112,192);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-468)">
+                <clipPath id="_clip4">
+                    <rect x="51" y="525" width="700" height="266" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip4)">
+                    <rect x="512" y="524" width="174" height="15" style="fill:rgb(255,0,0);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-440)">
+                <clipPath id="_clip5">
+                    <rect x="51" y="497" width="700" height="266" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip5)">
+                    <rect x="50" y="510" width="245" height="15" style="fill:rgb(255,255,0);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-440)">
+                <rect x="295" y="510" width="218" height="15" style="fill:rgb(146,208,80);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-440)">
+                <rect x="512" y="510" width="174" height="15" style="fill:rgb(201,201,201);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-314)">
+                <clipPath id="_clip6">
+                    <rect x="51" y="371" width="700" height="266" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip6)">
+                    <rect x="50" y="398" width="245" height="113" style="fill:rgb(255,230,153);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-314)">
+                <rect x="295" y="398" width="218" height="113" style="fill:rgb(146,208,80);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-314)">
+                <rect x="512" y="398" width="174" height="113" style="fill:rgb(201,201,201);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-146)">
+                <clipPath id="_clip7">
+                    <rect x="51" y="203" width="700" height="266" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip7)">
+                    <rect x="50" y="342" width="245" height="57" style="fill:rgb(255,230,153);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-146)">
+                <rect x="295" y="342" width="218" height="57" style="fill:rgb(255,192,0);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-146)">
+                <rect x="512" y="342" width="174" height="57" style="fill:rgb(201,201,201);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-20)">
+                <clipPath id="_clip8">
+                    <rect x="51" y="77" width="700" height="266" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip8)">
+                    <rect x="50" y="272" width="463" height="71" style="fill:rgb(255,230,153);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,0,-20)">
+                <rect x="512" y="272" width="174" height="71" style="fill:rgb(201,201,201);"/>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="67px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:rgb(255,255,0);">Plant Security</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="67px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:rgb(146,208,80);">Network Security</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="67px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;fill:rgb(174,170,170);">System Integrität</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="81px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10px;">Physical Security (Gelände, Gebäude, Räume, …)</text>
+                <text x="300.778px" y="81px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Abschottung Internet, Proxy</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="81px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">2 Faktor</text>
+                <text x="554.458px" y="81px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Authenitiﬁzierung, SSO</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="95px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">3rd Party,<tspan x="96.351px " y="95px "> </tspan>NDA, SLA <tspan x="147.481px " y="95px ">&amp;</tspan> External Hardware, …</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="95px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Firewalls, DMZ, Cell Protection, Segmentation</text>
+                <text x="517.227px" y="95px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Anti Malware</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="109px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Assessment - Business Impact</text>
+                <text x="192.494px" y="109px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Analyses</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="109px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">IDS/IPS</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="109px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">App Whitelisting</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="123px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Asset Management/Mobile Devices/Conﬁg CMDB</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="123px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Managed Switches (VLAN, Port Security,<tspan x="480.305px " y="123px "> </tspan>NIDS)</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="123px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Backup/Restore</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="137px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(46,46,45);">Auditierung durch ext. Dienstleister,<tspan x="210.863px " y="137px "> </tspan>Penetrationtests</text>
+                <text x="300.779px" y="137px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Secure Island</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="137px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Benutzer,<tspan x="557.804px " y="137px "> </tspan>Passwords, Credentials</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="151px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Change Management</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="151px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Secure Remote</text>
+                <text x="370.258px" y="151px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Access VPN</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="151px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Beschaff<tspan x="553.913px " y="151px ">u</tspan>ng Ersatzteile, Hardware, …</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="165px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Compliance &amp; Gesetzliche Vo<tspan x="185.29px " y="165px ">r</tspan>schriften</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="165px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Freischalten von Fernwartungen</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="165px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">DLP <tspan x="537.232px " y="165px ">P</tspan>rotection</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="179px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Dokumentation</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="179px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Ve<tspan x="310.232px " y="179px ">r</tspan>schlüsselte Kommunikation (https, T<tspan x="474.189px " y="179px ">L</tspan>S,..)</text>
+                <text x="517.779px" y="179px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Freigebene A<tspan x="577.82px " y="179px ">p</tspan>plikationen</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="193px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Einbindung Sicherheitsexperten, Secure by Design</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="193px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(0,32,96);">Secure Wireless</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="193px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Handhabung We<tspan x="590.058px " y="193px ">c</tspan>hseldatenträger</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="207px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Forensik</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="207px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Clean Desk!</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="207px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Härten OS,</text>
+                <text x="567.798px" y="207px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Apps,…</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="221px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Incident Response Management</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="221px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Need to Know!</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="221px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Keypass</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="235px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Notfallmanagement/BCM</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="235px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Least Priviledge!</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="235px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Patch Installation</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="249px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(46,46,45);">Protokollierung der Zugriff<tspan x="168.06px " y="249px ">e</tspan> - Nachvollziehbarkeit</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="249px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Data Classiﬁcation!</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="249px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Robustness, Resilience, Redundanz</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="263px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Risk Management</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="263px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Sichere Entsorgung Datenträger,<tspan x="444.204px " y="263px "> </tspan>Shreddern</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="263px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">(Vi<tspan x="527.222px " y="263px ">r</tspan>tualsisierung, UPS, RAID,..)</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="277px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Role based Management (AD), Idendität- Zugriff<tspan x="266.445px " y="277px ">s</tspan>mgt. <tspan x="298px " y="277px "> </tspan>SIEM/SOC</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="277px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Secure Conﬁguration, Hersteller PW?</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="291px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Rollen und Ve<tspan x="115.826px " y="291px ">r</tspan>antwortliche</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="291px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Strategie, Procedures &amp; Guidelines, Standards</text>
+                <text x="517.779px" y="291px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Secure Controll Network</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="305px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Secure</text>
+                <text x="87.464px" y="305px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Architecture &amp; Secure System Integration</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="305px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Threat/Vu<tspan x="341.913px " y="305px ">l</tspan>n/Patch Management</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="305px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Umgebungssicherheit (IP)</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,0.752982,0)">
+                <text x="53px" y="319px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Secure On- und Off<tspan x="139.713px " y="319px ">b</tspan>oarding Mitarbeiter</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,4.23375,0)">
+                <text x="298px" y="319px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">Tr<tspan x="307.439px " y="319px ">a</tspan>ining &amp; Education, A<tspan x="403.064px 410.286px " y="319px 319px ">wa</tspan>reness</text>
+            </g>
+            <g transform="matrix(0.985793,0,0,1,7.31671,0)">
+                <text x="515px" y="319px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;fill:rgb(255,0,0);">Zertiﬁkate/PKI</text>
+            </g>
+        </g>
+    </g>
+</svg>
